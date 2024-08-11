@@ -1,5 +1,22 @@
 {
     "author": "hydradocs",
     "title": "Sample PDF",
-    "pages": []
+    "pages": [
+        {
+            "elements": [
+                {
+                    "type": "Text",
+                    "content": "Hello HydraDocs!",
+                    "font_size": 10.0,
+                    "position": [1.0, 5.0]
+                },
+                {
+                    "type": "Text",
+                    "font_size": 10.0,
+                    "content": "Hello Again!",
+                    "position": [1.0, 1.0]
+                }
+            ]
+        }
+    ]
 }
